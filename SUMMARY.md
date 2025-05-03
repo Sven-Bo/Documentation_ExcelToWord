@@ -10,7 +10,11 @@
 ## 📚 Guides
 
 * [How to add more placeholder columns in Excel](guides/how-to-add-more-placeholder-columns-in-excel.md)
-* [How to replace images in Word](guides/how-to-replace-images-in-word.md)
+* [How to insert images in Word](guides/how-to-insert-images-in-word.md)
+
+***
+
+* [How to insert Excel ranges in Word](how-to-insert-excel-ranges-in-word.md)
 
 ## ⁉️ FAQ
 
