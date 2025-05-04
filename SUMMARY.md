@@ -15,6 +15,7 @@
 ***
 
 * [How to insert Excel ranges in Word](how-to-insert-excel-ranges-in-word.md)
+* [How to insert Excel tables in Word](how-to-insert-excel-tables-in-word.md)
 
 ## ⁉️ FAQ
 
