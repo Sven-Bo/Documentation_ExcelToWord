@@ -9,7 +9,7 @@
 
 ## 📚 Guides
 
-* [How to add more placeholder columns in Excel](guides/how-to-add-more-placeholder-columns-in-excel.md)
+* [How to add more placeholder columns and rows in Excel](guides/how-to-add-more-placeholder-columns-and-rows-in-excel.md)
 * [How to insert images in Word](guides/how-to-insert-images-in-word.md)
 
 ***
